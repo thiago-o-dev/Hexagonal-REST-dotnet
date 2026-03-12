@@ -1,4 +1,4 @@
-﻿namespace School.Domain.Ports;
+﻿namespace School.Domain.Entities;
 
 public abstract class BaseEntity
 {
@@ -12,7 +12,7 @@ public abstract class BaseEntity
         Id = Guid.NewGuid();
         CreatedAt = DateTime.UtcNow;
         IsActive = true;
-    }   
+    }
 
     public void Deactivate()
     {
