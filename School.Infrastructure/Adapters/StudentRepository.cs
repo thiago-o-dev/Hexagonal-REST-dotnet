@@ -3,7 +3,7 @@ using School.Domain.Entities;
 using School.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 
-namespace School.Infrastructure.Repositories;
+namespace School.Infrastructure.Adapters;
 
 public class StudentRepository : IStudentRepository
 {

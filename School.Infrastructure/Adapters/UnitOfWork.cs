@@ -1,7 +1,7 @@
 ﻿using School.Domain.Ports;
 using School.Infrastructure.Data;
 
-namespace School.Infrastructure.Repositories;
+namespace School.Infrastructure.Adapters;
 
 public class UnitOfWork : IUnitOfWork
 {

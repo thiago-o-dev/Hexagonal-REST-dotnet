@@ -1,6 +1,6 @@
 ﻿using School.Domain.Ports;
 using School.Infrastructure.Data;
-using School.Infrastructure.Repositories;
+using School.Infrastructure.Adapters;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
