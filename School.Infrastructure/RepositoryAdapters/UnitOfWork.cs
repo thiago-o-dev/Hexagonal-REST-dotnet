@@ -1,4 +1,4 @@
-﻿using School.Domain.Abstractions;
+﻿using School.Domain.Ports;
 using School.Infrastructure.Data;
 
 namespace School.Infrastructure.Repositories;

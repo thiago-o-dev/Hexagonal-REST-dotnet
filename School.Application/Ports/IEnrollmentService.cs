@@ -1,6 +1,6 @@
 ﻿using School.Application.ViewModels;
 
-namespace School.Application.Abstractions;
+namespace School.Application.Ports;
 
 public interface IEnrollmentService
 {

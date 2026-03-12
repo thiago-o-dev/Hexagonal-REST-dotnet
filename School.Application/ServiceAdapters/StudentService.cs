@@ -1,9 +1,9 @@
 ﻿using School.Application.ViewModels;
 using School.Application.Exceptions;
-using School.Domain.Abstractions;
+using School.Domain.Ports;
 using School.Domain.Constants;
 using School.Domain.Entities;
-using School.Application.Abstractions;
+using School.Application.Ports;
 
 namespace School.Application.Services;
 

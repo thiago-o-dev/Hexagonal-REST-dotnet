@@ -2,7 +2,7 @@
 using School.Application.Exceptions;
 using School.Domain.Exceptions;
 using Microsoft.AspNetCore.Mvc;
-using School.Application.Abstractions;
+using School.Application.Ports;
 
 namespace School.WebApi.Controllers;
 

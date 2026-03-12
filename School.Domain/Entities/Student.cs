@@ -1,5 +1,4 @@
-﻿using School.Domain.Abstractions;
-using School.Domain.Constants;
+﻿using School.Domain.Constants;
 using School.Domain.Exceptions;
 
 namespace School.Domain.Entities;

@@ -1,4 +1,4 @@
-﻿namespace School.Domain.Abstractions;
+﻿namespace School.Domain.Ports;
 
 public abstract class BaseEntity
 {

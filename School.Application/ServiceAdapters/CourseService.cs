@@ -1,7 +1,7 @@
-﻿using School.Application.Abstractions;
+﻿using School.Application.Ports;
 using School.Application.Exceptions;
 using School.Application.ViewModels;
-using School.Domain.Abstractions;
+using School.Domain.Ports;
 using School.Domain.Constants;
 using School.Domain.Entities;
 

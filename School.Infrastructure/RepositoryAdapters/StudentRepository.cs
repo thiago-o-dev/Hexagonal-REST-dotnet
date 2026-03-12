@@ -1,4 +1,4 @@
-﻿using School.Domain.Abstractions;
+﻿using School.Domain.Ports;
 using School.Domain.Entities;
 using School.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
